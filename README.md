@@ -26,7 +26,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/db1e1cdc41834c76bd4d9504c6cb6b68">
+    </a>
+    <a href="https://www.loom.com/share/db1e1cdc41834c76bd4d9504c6cb6b68">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/db1e1cdc41834c76bd4d9504c6cb6b68-6c30acba86b80d03-full-play.gif">
+    </a>
+  </div>
 ## Notes
 
 Most difficult challenge I had faced was the comment section and the notifications portion and putting it into my main storyboard but was able to go through it.
